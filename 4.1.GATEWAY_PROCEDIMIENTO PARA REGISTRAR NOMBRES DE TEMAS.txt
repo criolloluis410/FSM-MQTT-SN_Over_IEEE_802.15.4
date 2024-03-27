@@ -1,2 +1,0 @@
-REGISTER_listoRegistro=1_REGACK_
-REGISTER_listoRegistro=1_REGACK(0x01)_TWAIT_listoRegistro=1_REGACK_
