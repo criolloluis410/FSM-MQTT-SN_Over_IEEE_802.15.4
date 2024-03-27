@@ -1,1 +1,0 @@
-pubPend>=1_listaPub(QoS0)=1_listaPub(QoS1)=1_PUBACK_listaPub(QoS2)=1_PUBREC_PUBCOMP_pubPend=0_
