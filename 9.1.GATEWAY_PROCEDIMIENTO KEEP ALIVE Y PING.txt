@@ -1,1 +1,0 @@
-PINGREQ_listaPeticion=1_PINGRESP_TKA_
