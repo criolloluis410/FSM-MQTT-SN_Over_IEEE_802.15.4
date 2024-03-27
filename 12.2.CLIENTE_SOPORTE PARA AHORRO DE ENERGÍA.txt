@@ -1,3 +1,0 @@
-ahoEner=1_DISCONNECT_TS_PINGRESP_cerrarCx=1_DISCONNECT_iniCx=1_proc2Count=1_
-ahoEner=1_DISCONNECT_TS_ahoEner=0_proc2Count=1_
-cerrarCx=1_DISCONNECT_iniCx=1_proc2Count=1_
