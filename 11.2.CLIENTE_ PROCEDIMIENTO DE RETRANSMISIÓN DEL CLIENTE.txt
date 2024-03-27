@@ -1,2 +1,0 @@
-listoMsgUnicast=1_TRETRY_TRETRY_TRETRY_Nretry=Nmax_
-listoMsgUnicast=1_PUBACK_
