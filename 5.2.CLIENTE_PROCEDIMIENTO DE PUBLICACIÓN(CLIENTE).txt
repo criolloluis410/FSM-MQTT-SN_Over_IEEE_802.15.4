@@ -1,4 +1,0 @@
-listaPublicacion(QoS0)=1_listaPublicacion(QoS1)=1_PUBACK_listaPublicacion(QoS2)=1_PUBREC_PUBCOMP_
-listaPublicacion=1(QoS1)_PUBACK(0x01)_
-listaPublicacion=1(QoS2)_PUBACK(0x01)_
-listaPublicacion=1(QoS0)_PUBACK(0x02)_
