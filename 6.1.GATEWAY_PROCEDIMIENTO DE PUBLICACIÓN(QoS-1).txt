@@ -1,0 +1,1 @@
+brokerListo=1_PUBLISH_brokerListo=0_
