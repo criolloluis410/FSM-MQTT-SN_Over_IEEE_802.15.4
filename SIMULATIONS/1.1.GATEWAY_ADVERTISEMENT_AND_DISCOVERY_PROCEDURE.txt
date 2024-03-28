@@ -1,0 +1,3 @@
+brokerReady=1_SEARCHGW_TADV_TADV_
+brokerReady=1_gwBackup=1_ADVERTISE_NADVTADV_brokerReady=0_
+brokerReady=1_gwBackup=1_ADVERTISE_brokerReady=0_
