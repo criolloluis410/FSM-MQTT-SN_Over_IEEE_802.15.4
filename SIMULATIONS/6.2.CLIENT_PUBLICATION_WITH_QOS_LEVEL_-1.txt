@@ -1,0 +1,2 @@
+listaPublicacion(QoS-1)=1_
+listaPublicacion(QoS-1)=1_listaPublicacion(QoS-1)=1_listaPublicacion(QoS-1)=1_

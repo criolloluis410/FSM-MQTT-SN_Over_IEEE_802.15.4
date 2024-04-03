@@ -1,0 +1,2 @@
+listaSub=1_SUBACK_darDeBaja=1_UNSUBACK_
+listaSub=1_SUBACK(0x01)_TWAIT_

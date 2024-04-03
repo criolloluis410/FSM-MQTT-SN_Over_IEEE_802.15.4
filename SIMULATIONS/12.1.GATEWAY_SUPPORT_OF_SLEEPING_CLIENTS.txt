@@ -1,0 +1,2 @@
+DISCONNECT(sleepDuration)_PINGREQ_pubPend=0_TS_
+DISCONNECT(sleepDuration)_PINGREQ_pubPend=0_DISCONNECT_

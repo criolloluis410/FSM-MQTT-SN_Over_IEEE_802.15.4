@@ -1,0 +1,2 @@
+cerrarConexion=1_DISCONNECT_iniConexion=1_
+DISCONNECT_
